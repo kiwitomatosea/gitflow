@@ -18,3 +18,6 @@ void *copy(char *ojb) {
 int _size(char *obj) {
    return sizeof(obj);
 }
+
+flow chart OK!!
+
