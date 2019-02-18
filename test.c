@@ -15,6 +15,5 @@ void *copy(char *ojb) {
    return obj;
 }
 
-int _size(char *obj) {
-   return sizeof(obj);
-}
+flow chart OK!!
+
