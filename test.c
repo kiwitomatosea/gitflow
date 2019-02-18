@@ -11,7 +11,7 @@ int _len(const char *s) {
    while (*s++)
 }
 
-void *copy(float *ojb) {
+void *copy(int *ojb) {
    return obj;
 }
 
